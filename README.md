@@ -1,6 +1,6 @@
 # Fluffy Panda: Gamification in Education Resources
 
-**Fluffy Panda Website:**  [Fluffy Panda: fluffy-panda-tutoring.onrender.com](fluffy-panda-tutoring.onrender.com)
+**Fluffy Panda Website:**  [Fluffy Panda: fluffy-panda-tutoring.onrender.com](http://fluffy-panda-tutoring.onrender.com)
 
 **Example: Polymorphism Harry Potter** (Visual):  
 [https://codepen.io/404pandas/pen/eYoXpKG](https://codepen.io/404pandas/pen/eYoXpKG)
